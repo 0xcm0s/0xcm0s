@@ -14,7 +14,7 @@
 
 #### 💬 Sidenote:
 
-- 💞️ I’m looking to collaborate on Cybersecurity Competitions such as NCL (National Cyber League) and any others are up for recommendation.
+- I’m looking to collaborate on Cybersecurity Competitions such as NCL (National Cyber League) and any others are up for recommendation.
 
 #### Proficiencies
 
