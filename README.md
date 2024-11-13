@@ -3,7 +3,7 @@
 ### Welcome to my Github page!
 
 ### About me:
-  I am a Computer Science student at Southern New Hampshire University with a passion for Cybersecurtiy. I enjoy challenging myself with gamified Penetration Testing exercises on HackTheBox and TryHackMe in my free time, and when it is avaliable I like to participate in National Cyber League.
+  I am a Computer Science student at Southern New Hampshire University with a passion for Cybersecurity. I enjoy challenging myself with gamified Penetration Testing exercises on HackTheBox and TryHackMe in my free time, and when it is avaliable I like to participate in National Cyber League.
 
 #### 🌱 I am currently working on:
 
